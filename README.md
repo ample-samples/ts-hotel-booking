@@ -8,5 +8,6 @@ Currently, it should:
 - Recieve bookings of groups of any (reasonable) number of guests.
 - The guests will be booked into rooms of sufficient size and a database should be kept of which rooms are occupied (and how many are staying in each room?).
 - The guests will be booked out using their room number and their room will be emptied
+
 The aim and requirements will change as development continues.
 
